@@ -1,0 +1,1 @@
+This is simple package for using meteor.js

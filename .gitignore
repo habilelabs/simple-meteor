@@ -1,0 +1,5 @@
+/.jshintrc
+/node_modules
+.idea
+.DS_Store
+.meteor/dev_bundle
